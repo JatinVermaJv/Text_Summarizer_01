@@ -132,6 +132,7 @@ def main():
     generate_button = tk.Button(
         window, text="Generate Summary", command=generate_button_click
     )
+   
     generate_button.pack(pady=5, padx=10)
 
     # Create a label for the summary area
