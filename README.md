@@ -2,7 +2,7 @@
 
 #### 1. Clone the repository:
 ```bash
-git clone https://github.com/bhargavmodak/text-summarizer
+git clone https://github.com/JatinVermaJv/Text_Summarizer_01.git
 ```
 
 #### 2. Create a virtual environment (optional):
